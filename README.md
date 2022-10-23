@@ -1,1 +1,3 @@
-# Smart-Luogu-docs.github.io
+# Headline
+
+> An awesome project.
